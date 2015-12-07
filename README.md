@@ -16,7 +16,7 @@ to understand/test/hack/mod
 for your next BBB bare metal interrupt project!  
 
 It requires no additional hardware.  Type letters from a terminal emulator 
-program (I use termite) 
+program (I use termite)  
 and it will echo them.  Also USR1 blinks every second 
 & USR2 blinks when you hit the boot button.  
 All under interrupt control.  
