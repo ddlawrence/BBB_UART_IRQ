@@ -12,7 +12,7 @@ I did not test the binary format version
 for MMC booting.  (i broke the SD slot on my laptop)
 
 It is all there in very concise format, so it should be easy for noobs 
-to understand/test/hack/mod 
+to understand/test/hack/mod  
 for your next BBB bare metal interrupt project!  
 
 It requires no additional hardware.  Type letters from a terminal emulator 
