@@ -13,15 +13,12 @@ for MMC booting.  (i broke the SD slot on my laptop)
 
 It is all there in very concise format, so it should be easy for noobs 
 to understand/test/hack/mod 
-
 for your next BBB bare metal interrupt project!  
 
 It requires no additional hardware.  Type letters from a terminal emulator 
 program (I use termite) 
-
 and it will echo them.  Also USR1 blinks every second 
 & USR2 blinks when you hit the boot button.  
-
 All under interrupt control.  
 
 You can provide feedback at my website www.baremetal.tech  
