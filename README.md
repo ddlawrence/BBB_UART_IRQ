@@ -20,6 +20,8 @@ It requires no additional hardware.  Type letters from a terminal emulator
 program (I use termite) 
 
 and it will echo them.  Also USR1 blinks every second 
-& USR2 blinks when you hit the boot button.  All under interrupt control.  
+& USR2 blinks when you hit the boot button.  
+
+All under interrupt control.  
 
 You can provide feedback at my website www.baremetal.tech  
